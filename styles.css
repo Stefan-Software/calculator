@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.calculator {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 150px;
+    font-size: 20px;
+}
+
+.buttons button {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    margin: 5px;
+}
